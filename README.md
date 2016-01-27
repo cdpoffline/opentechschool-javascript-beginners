@@ -1,2 +1,2 @@
 # opentechschool-javascript-beginners
-Der JavaScript workshop der OpentechSchool http://opentechschool.github.io/js-beginners-4h-workshop-1/
+Der JavaScript-Workshop der [OpenTechSchool](https://github.com/OpenTechSchool/js-beginners-4h-workshop-1)
