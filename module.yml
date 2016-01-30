@@ -1,0 +1,7 @@
+overview:
+  tools:
+    editors:
+#      image: overview.jpg
+      name: Editor
+      text: Ein Editor hilft dabei, beim Programmieren den Quelltext zu lesen und zu schreiben.
+      module: editors
