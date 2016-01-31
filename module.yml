@@ -1,7 +1,7 @@
 overview:
-  tools:
-    editors:
+  syntax:
+    opentechschool-javascript-beginners:
 #      image: overview.jpg
-      name: Editor
-      text: Ein Editor hilft dabei, beim Programmieren den Quelltext zu lesen und zu schreiben.
-      module: editors
+      name: JavaScript
+      text: Unser Ziel für den ersten Tag ist es, genug JavaScript zu lernen um gefährlich zu sein und nebenbei ein Gefühl für JavaScripts natürlichen Lebensraum (Web, Browser, HTML) zu bekommen.
+      module: opentechschool-javascript-beginners
