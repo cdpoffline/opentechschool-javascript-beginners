@@ -1,10 +1,19 @@
 #!/bin/bash
 
+set -e
+
 cd "`dirname \"$0\"`"
 
 cd ..
 
-git submodule update
+if [ -d "js-beginners-4h-workshop-1" ]
+then
+  cd "js-beginners-4h-workshop-1"
+  git pull
+  cd ..
+else
+  git clone --depth=1 https://github.com/OpenTechSchool/js-beginners-4h-workshop-1.git
+fi
 
 cd web
 

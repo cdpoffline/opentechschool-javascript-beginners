@@ -2,8 +2,7 @@
 
 cd "`dirname $0`"
 
-sudo apt-get -y -q install git realpath wget
+sudo apt-get -y -q install realpath wget git
 
 cd ..
 
-git submodule init
