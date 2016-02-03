@@ -12,7 +12,7 @@ then
   git pull
   cd ..
 else
-  git clone --depth=1 https://github.com/OpenTechSchool/js-beginners-4h-workshop-1.git
+  git clone --depth=1 --branch=gh-pages https://github.com/OpenTechSchool/js-beginners-4h-workshop-1.git
 fi
 
 cd web
