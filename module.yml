@@ -2,6 +2,10 @@ overview:
   syntax:
     opentechschool-javascript-beginners:
 #      image: overview.jpg
-      name: JavaScript
-      text: Unser Ziel für den ersten Tag ist es, genug JavaScript zu lernen um gefährlich zu sein und nebenbei ein Gefühl für JavaScripts natürlichen Lebensraum (Web, Browser, HTML) zu bekommen.
+      name: 
+        en-en: JavaScript
+        de-de: JavaScript
+      text: 
+        en-en: Our goal for the first day is to learn enough JavaScript to be dangerous and get a feeling of JavaScript natural habitat (web, browser, HTML).
+        de-de: Unser Ziel für den ersten Tag ist es, genug JavaScript zu lernen um gefährlich zu sein und nebenbei ein Gefühl für JavaScripts natürlichen Lebensraum (Web, Browser, HTML) zu bekommen.
       module: opentechschool-javascript-beginners
